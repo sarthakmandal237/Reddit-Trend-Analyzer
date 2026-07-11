@@ -212,6 +212,3 @@ powerbi/reddit_trend_analyzer.pbix
 
 Data Analyst | Python | SQL | Power BI
 
----
-
-⭐ If you found this project useful, consider giving it a star!
